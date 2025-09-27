@@ -44,72 +44,67 @@ Managing restaurant operations manually is time-consuming, error-prone, and inef
 
 📌 How to run the project?
 
-### Execution
+### 1.Execution
 Double click RMS_GUI.jar
 
-### Login
+### 2.Login
 You can use test data for the first time. You can add new staff when you log in as manager.
 
-### Manager
+#### Manager
 - ID:1000 Password:789456
 - ID:1001 Password:789456
 
-### Staff
+#### Staff
 - ID:100 Password:123456
 - ID:101 Password:123456
 - ID:102 Password:123456   
 
-### Show menu
-You can see all menu items by clicking ALL button, and items in particular categories by clicking Drink, Alcohol, Main, or Dessert button.  
+### 3.Taking order(Both Manager and Employee can use options )
 
-view images related to project @ readme_images
-
-### Taking order(Both Manager and Employee can use options )
-
-### Create new order
+#### Create new order
 1. Click "Show menu" button on the left
 2. Click "New" button to create new order
 3. Select adding items by clicking from the menu list on the right side.
 4. Enter quantity and click "Add" button on the left side.(If quantity is emputy, one item will be added)
 5. You can delete ordered item from the order detail by clicking "Delete" button  
 
-### Edit order
+#### Edit order
 1. Click "Show menu" button on the left
 2. Select the order from the order list to edit
 3. Click "Edit" button
 4. You can add, delete ordered items
 
-### Close or Cancel order
+#### Close or Cancel order
 1. Select the order from the order list
 2. Click "Close" button or "Cancel" button
 3. The order closed or canceled can not edit
 
-### Manage Employees (Manager only)
+### 4.Manage Employees (Manager only)
 
-### Add new staff
+#### Add new staff
 1. Click "Manage Employees" Button on the left
 2. Click "New" button
 3. Fill in all information and click OK
 
-### Edit staff
+#### Edit staff
 1. Click "Manage Employees" Button on the left
 2. Select a staff from the employees list
 3. Click "Edit" button
 4. Fill in all information and click OK
 
-### Delete staff
+#### Delete staff
 1. Click "Manage Employees" Button on the left
 2. Select a staff from the employees list
 3. Click "Delete" button
 
-### Manage Menu Items (Manager only)
+### 5.Manage Menu Items (Manager only)
 
-### Add new item
+#### Add new item
 1. Click "Manage menu items" Button on the left
 2. Click "Add new menu item" button
 3. Fill in all information and click OK
 
-### Edit menu item
+#### Edit menu item
 1. Click "Manage menu items" Button on the left
 2. Select a menu item from the menu list
 3. Click "Edit menu item" button
@@ -120,7 +115,7 @@ view images related to project @ readme_images
 2. Select a menu item from the menu list
 3. Click "Delete menu item" button
 
-### About payments
+#### About payments
 * When you log in, the system automaticaly set start working time.
 * Clock out button will set finish working time of the person currently logged in.
 * Manager can make staff clocked out via manage employees, by selecting staff and clicking Clock out button.
