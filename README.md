@@ -110,7 +110,7 @@ You can use test data for the first time. You can add new staff when you log in 
 3. Click "Edit menu item" button
 4. Fill in all information and click OK
 
-### Delete menu item
+#### Delete menu item
 1. Click "Manage menu items" Button on the left
 2. Select a menu item from the menu list
 3. Click "Delete menu item" button
@@ -120,7 +120,10 @@ You can use test data for the first time. You can add new staff when you log in 
 * Clock out button will set finish working time of the person currently logged in.
 * Manager can make staff clocked out via manage employees, by selecting staff and clicking Clock out button.
 * You can see a payment details for a day by clicking "Show payment" button on the left 
-* Manager can generate like - Payment report, Order report (access here- dataFiles>reports) 
+* Manager can generate like - Payment report, Order report (access here- dataFiles>reports)
+
+### 6.Output images
+use can see sample output images in folder readme_images
 
 📌 Result and Conclusion
 
