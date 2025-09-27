@@ -1,0 +1,5 @@
+*********** Order List (2025_09_27) ***********
+Order ID:   1  StaffName:Raju P                          Total:$29.80 
+Order ID:   2  StaffName:Raju P                          Total:$10.80 Canceled
+-------------------------------------------------------
+Total sales:$29.8(1)  Canceled:$10.8(1)
